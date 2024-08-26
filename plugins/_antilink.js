@@ -1,4 +1,4 @@
-// KILLZN - BOT@KillzN - _antilink.js
+// STREAMSHOP - BOT@STREAMSHOP - _antilink.js
 
   
 const linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i;

@@ -1,4 +1,4 @@
-// KILLZN - BOT@KillzN - _antiarab.js
+// STREAMSHOP - BOT@STREAMSHOP - _antiarab.js
 
 
 const handler = (m) => m;
